@@ -54,7 +54,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Installation
 
-Run npm install <package names>
+- Run npm install <package names>
+
+- npm run deploy
+
+- npm run build
 
 ## Reach-me
 
@@ -63,3 +67,5 @@ jessyjosephine.mscit@gmail.com
 ## GitHub-name
 
 Github: https://github.com/Jessyjdi
+
+https://jessyjdi.github.io/MyPortfolio-BuildwithReact/
