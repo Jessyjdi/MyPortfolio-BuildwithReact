@@ -35,13 +35,13 @@ export default function About() {
       <img style={styles.jessyinbaraj} src={JessyInbaraj} alt="Jessy Inbaraj" />
       </div>
       <p style={styles.p}>
+      Transitioning from a tester to a developer can be a challenging and ambitious career change.
+      
       As a tester, I already have some basic programming knowledge, but it's important to take the time to learn a programming language in depth to become a Full-Stack developer.
       
-      I'm attending the University of Washigton bootcamp which is interesting and challenging as well
+      I'm attending the University of Washigton bootcamp which is interesting and challenging as well.
      
-      Practice coding as much as possible to improve your skills. Start by working on small coding projects which gradually improved the understanding of the code.
-     
-      A highly efficient, methodical and talented quality assurance Engineer who has considerable experience of developing and implementing effective quality control / assurance processes and structures in Mobile, Web and Desktop Technologies. 
+      Practicing coding as much as possible to improve my skills. I started by working on small coding projects which gradually improved the understanding of the code.
       </p>
     </div>
   );
