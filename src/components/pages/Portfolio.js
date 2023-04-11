@@ -69,7 +69,7 @@ export default function Portfolio() {
               GitHub Repository
             </a>
             <p style={styles.space}>
-            The Team-Profile-Generator is a command-line-input application that run in Node. This application requests information from the user about Devlopment team members (like Manager, Engineer and Intern) and generates an HTML file displaying their information. The user can selects that member's role from a list (options include "Engineer," "Intern," and "Manager), The common input for the Manager, Engineer and Intern are "Name, Id and Email", based on the role the additional information will be collected from the user. If the user selects manager, additionally the office number has to be provided. For the Engineer the Github name has to be given. Similarly for the Intern the school name has to be provided.
+            The Team-Profile-Generator is a command-line-input application that run in Node. This application requests information from the user about Devlopment team members (like Manager, Engineer and Intern) and generates an HTML file displaying their information.
             </p>
           </section>
         </div>
@@ -86,7 +86,7 @@ export default function Portfolio() {
               GitHub Repository
             </a>
             <p style={styles.space}>
-            The Social Network API back-end is created as a part of UW Coding Bootcamp challenge. The application is built using the Mongoose, express and moment. The Major CRUD operations like GET, POST, PUT and Delete are involved in creating the User and adding the thoughts to the User and the reaction for their thoughts and moreover adding friends to the users network.
+            The Social Network API back-end is created as a part of UW Coding Bootcamp challenge. The application is built using the Mongoose, express and moment.
             </p>
           </section>
 
@@ -101,7 +101,7 @@ export default function Portfolio() {
               GitHub Repository
             </a>
             <p style={styles.space}>
-            E-Commerce Internet Retail is a backend for the e-com site. The Express.js API to use Sequelize to interact with a MySQL database. The Database has three main tables called Category, Product and Tag. The data are stored and retrieve using the API.
+            E-Commerce Internet Retail is a backend for the e-com site. The Express.js API to use Sequelize to interact with a MySQL database. 
             </p>
           </section>
 
