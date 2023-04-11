@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio-BuildwithReact/static/css/main.4411566b.css",
+    "main.js": "/MyPortfolio-BuildwithReact/static/js/main.4b8dbf9d.js",
+    "static/media/jessy.jpg": "/MyPortfolio-BuildwithReact/static/media/jessy.00e60f6c912e5ebd4b18.jpg",
+    "static/media/JessyInbaraj.pdf": "/MyPortfolio-BuildwithReact/static/media/JessyInbaraj.c31ab62f95adefad0c22.pdf",
+    "static/media/bg3.jpg": "/MyPortfolio-BuildwithReact/static/media/bg3.30fdc56e403895cc7933.jpg",
+    "static/media/NoSQLSocialNetwork.PNG": "/MyPortfolio-BuildwithReact/static/media/NoSQLSocialNetwork.e4fb75552ffbe7475699.PNG",
+    "static/media/EcomRetail.PNG": "/MyPortfolio-BuildwithReact/static/media/EcomRetail.cb8a3b8ca16e309f5b6c.PNG",
+    "static/media/TeamProfileGenerator.PNG": "/MyPortfolio-BuildwithReact/static/media/TeamProfileGenerator.554c770004925d6b8744.PNG",
+    "static/media/EmployeeTrackerPrompt.png": "/MyPortfolio-BuildwithReact/static/media/EmployeeTrackerPrompt.f8adadee586f86bc930a.png",
+    "static/media/NoteTaker.PNG": "/MyPortfolio-BuildwithReact/static/media/NoteTaker.7a4562cca23c55bfe983.PNG",
+    "static/media/TextEditor.PNG": "/MyPortfolio-BuildwithReact/static/media/TextEditor.5da6f2a013dc4251d9c4.PNG",
+    "index.html": "/MyPortfolio-BuildwithReact/index.html",
+    "main.4411566b.css.map": "/MyPortfolio-BuildwithReact/static/css/main.4411566b.css.map",
+    "main.4b8dbf9d.js.map": "/MyPortfolio-BuildwithReact/static/js/main.4b8dbf9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4411566b.css",
+    "static/js/main.4b8dbf9d.js"
+  ]
+}
