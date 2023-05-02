@@ -1,4 +1,5 @@
 import React from "react";
+import FinalProject from "../../image/FinalProject.PNG";
 import EcomRetail from "../../image/EcomRetail.PNG";
 import TextEditor from "../../image/TextEditor.PNG";
 import NoSQLSocialNetwork from "../../image/NoSQLSocialNetwork.PNG";
@@ -33,6 +34,20 @@ export default function Portfolio() {
       <h2 style={styles.h2}>My Portfolio</h2>
       <div className="container">
         <div className="row justify-content-center">
+        <section className="card col-sm-3 p-0 m-2">
+            <a href="https://witches-brew-and-eats.herokuapp.com/" target="blank">
+              <img className="card-img-top" src={FinalProject} alt="screenshot of Witches Brew and Eats" />
+              <header>
+                <h3 style={styles.header}>Witches Brew and Eats</h3>
+              </header>
+            </a>
+            <a style={styles.repo} href="https://github.com/Jessyjdi/witches-brew-and-eats" target="blank" >
+              GitHub Repository
+            </a>
+            <p style={styles.space}>
+            Witches Brew and Eats is a unique and enchanting food and beverage establishment, where customers can experience a mystical and magical atmosphere while enjoying delicious food and drinks. It is a place where people can come together to celebrate their love for witchcraft, magic, and all things supernatural.
+            </p>
+          </section>
           <section className="card col-sm-3 p-0 m-2">
             <a href="https://whispering-plateau-88606.herokuapp.com/" target="blank">
               <img className="card-img-top" src={NoteTaker} alt="screenshot of note taker app"/>
